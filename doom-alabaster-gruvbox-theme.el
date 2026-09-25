@@ -350,5 +350,5 @@ There are three styles to select from:
 (when (and (boundp 'custom-theme-load-path) load-file-name)
   (add-to-list 'custom-theme-load-path (file-name-directory load-file-name)))
 
-(provide 'doom-alabaster-gruvbox-theme)
+(provide-theme 'doom-alabaster-gruvbox)
 ;;; doom-alabaster-gruvbox-theme.el ends here
