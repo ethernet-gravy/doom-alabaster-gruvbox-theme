@@ -60,7 +60,7 @@ There are three styles to select from:
 ;;;; Colors
   ;; name        default     256         16
   ((bg           '("#282828" "#282828"   "black"))
-   (base0        '("#1D2021" "#1D2021"   "black"))
+   (base0        '("#32302f" "#32302f"   "black"))
    (base1        '("#3C3836" "#3C3836"   "brightblack"))
    (base2        '("#504945" "#504945"   "brightblack"))
    (base3        '("#665C54" "#665C54"   "brightblack"))
