@@ -42,17 +42,7 @@ Additionally:
   it’s not reliable, your brain spends precious brain cycles to re-check
   everything it sees on the screen.
 * Screenshots
-These screenshots use [[https://emacs-tree-sitter.github.io/syntax-highlighting/][tree-sitter-hl-mode]]
-
-#+caption: screenshot1
-[[https://github.com/agraul/doom-alabaster-theme/blob/screenshots/screenshot1.png?raw=true]]
-
-#+caption: screenshot2
-[[https://github.com/agraul/doom-alabaster-theme/blob/screenshots/screenshot2.png?raw=true]]
-
-#+caption: screenshot3
-[[https://github.com/agraul/doom-alabaster-theme/blob/screenshots/screenshot3.png?raw=true]]
-
+TBD
 * Installation
 1. Add =doom-alabaster-theme= to =$DOOMDIR/packages.el=
    #+begin_src elisp
